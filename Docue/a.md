@@ -53,3 +53,5 @@ Arti has park mark.
 Arti has park cross.
 
 Arti has major.
+
+Arti is null gain inf the trigg rate has unknown time.
